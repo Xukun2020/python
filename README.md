@@ -1,6 +1,6 @@
-# python_spider_learn
-#自学python
-#爬虫以及基础练习
+#自学数据分析analysis
+#自学绘图drawing
+#爬虫以及基础练习Web crawler
 
 [bilibili爬虫](https://github.com/wjsaya/python/tree/master/bilibili)
 
